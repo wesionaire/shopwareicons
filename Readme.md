@@ -191,7 +191,7 @@ src: https://github.com/shopware/storefront/tree/trunk/Resources/app/storefront/
 - editor-underline 
 ![editor-underline](./icons/editor-underline.svg)
 - editor-undo 2
-![editor-undo 2](./icons/editor-undo-2.svg')
+![editor-undo 2](./icons/editor-undo-2.svg)
 - editor-undo 
 ![editor-undo](./icons/editor-undo.svg)
 - emoji 
