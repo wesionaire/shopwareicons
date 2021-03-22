@@ -212,8 +212,6 @@ src: https://github.com/shopware/storefront/tree/trunk/Resources/app/storefront/
 ![file](./icons/file.svg)
 - flag 
 ![flag](./icons/flag.svg)
-- folder-thumbnail 
-![folder-thumbnail](./icons/folder-thumbnail.svg)
 - forward 
 ![forward](./icons/forward.svg)
 - gamecontroler 
