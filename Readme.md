@@ -1,3 +1,7 @@
+# Shopware 6 Storefront Icons
+
+src: https://github.com/shopware/storefront/tree/trunk/Resources/app/storefront/dist/assets/icon/default
+
 - address 
 ![address](./icons/address.svg)
 - alert 
@@ -136,8 +140,6 @@
 ![dashboard](./icons/dashboard.svg)
 - database 
 ![database](./icons/database.svg)
-- debug 
-![debug](./icons/debug.svg)
 - desktop 
 ![desktop](./icons/desktop.svg)
 - document-view 
@@ -208,8 +210,6 @@
 ![eye-open](./icons/eye-open.svg)
 - file 
 ![file](./icons/file.svg)
-- filter 
-![filter](./icons/filter.svg)
 - flag 
 ![flag](./icons/flag.svg)
 - folder-thumbnail 
@@ -342,8 +342,6 @@
 ![pencil-brush](./icons/pencil-brush.svg)
 - photocamera 
 ![photocamera](./icons/photocamera.svg)
-- placeholder 
-![placeholder](./icons/placeholder.svg)
 - plastic-bag 
 ![plastic-bag](./icons/plastic-bag.svg)
 - plug 
