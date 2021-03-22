@@ -1,490 +1,490 @@
 - address 
-![address](./address.svg)
+![address](./icons/address.svg)
 - alert 
-![alert](./alert.svg)
+![alert](./icons/alert.svg)
 - align-center 
-![align-center](./align-center.svg)
+![align-center](./icons/align-center.svg)
 - align-justify 
-![align-justify](./align-justify.svg)
+![align-justify](./icons/align-justify.svg)
 - align-left 
-![align-left](./align-left.svg)
+![align-left](./icons/align-left.svg)
 - align-right 
-![align-right](./align-right.svg)
+![align-right](./icons/align-right.svg)
 - arrow-360-left 
-![arrow-360-left](./arrow-360-left.svg)
+![arrow-360-left](./icons/arrow-360-left.svg)
 - arrow-360-right 
-![arrow-360-right](./arrow-360-right.svg)
+![arrow-360-right](./icons/arrow-360-right.svg)
 - arrow-circle-down 
-![arrow-circle-down](./arrow-circle-down.svg)
+![arrow-circle-down](./icons/arrow-circle-down.svg)
 - arrow-circle-left 
-![arrow-circle-left](./arrow-circle-left.svg)
+![arrow-circle-left](./icons/arrow-circle-left.svg)
 - arrow-circle-right 
-![arrow-circle-right](./arrow-circle-right.svg)
+![arrow-circle-right](./icons/arrow-circle-right.svg)
 - arrow-circle-up 
-![arrow-circle-up](./arrow-circle-up.svg)
+![arrow-circle-up](./icons/arrow-circle-up.svg)
 - arrow-down 
-![arrow-down](./arrow-down.svg)
+![arrow-down](./icons/arrow-down.svg)
 - arrow-head-down 
-![arrow-head-down](./arrow-head-down.svg)
+![arrow-head-down](./icons/arrow-head-down.svg)
 - arrow-head-left 
-![arrow-head-left](./arrow-head-left.svg)
+![arrow-head-left](./icons/arrow-head-left.svg)
 - arrow-head-right 
-![arrow-head-right](./arrow-head-right.svg)
+![arrow-head-right](./icons/arrow-head-right.svg)
 - arrow-head-up 
-![arrow-head-up](./arrow-head-up.svg)
+![arrow-head-up](./icons/arrow-head-up.svg)
 - arrow-left 
-![arrow-left](./arrow-left.svg)
+![arrow-left](./icons/arrow-left.svg)
 - arrow-move-horizontal-axis 
-![arrow-move-horizontal-axis](./arrow-move-horizontal-axis.svg)
+![arrow-move-horizontal-axis](./icons/arrow-move-horizontal-axis.svg)
 - arrow-move-vertical-axis 
-![arrow-move-vertical-axis](./arrow-move-vertical-axis.svg)
+![arrow-move-vertical-axis](./icons/arrow-move-vertical-axis.svg)
 - arrow-right 
-![arrow-right](./arrow-right.svg)
+![arrow-right](./icons/arrow-right.svg)
 - arrow-scroll 
-![arrow-scroll](./arrow-scroll.svg)
+![arrow-scroll](./icons/arrow-scroll.svg)
 - arrow-simple-long-right 
-![arrow-simple-long-right](./arrow-simple-long-right.svg)
+![arrow-simple-long-right](./icons/arrow-simple-long-right.svg)
 - arrow-switch 
-![arrow-switch](./arrow-switch.svg)
+![arrow-switch](./icons/arrow-switch.svg)
 - arrow-turn-left 
-![arrow-turn-left](./arrow-turn-left.svg)
+![arrow-turn-left](./icons/arrow-turn-left.svg)
 - arrow-turn-right 
-![arrow-turn-right](./arrow-turn-right.svg)
+![arrow-turn-right](./icons/arrow-turn-right.svg)
 - arrow-up-down 
-![arrow-up-down](./arrow-up-down.svg)
+![arrow-up-down](./icons/arrow-up-down.svg)
 - arrow-up 
-![arrow-up](./arrow-up.svg)
+![arrow-up](./icons/arrow-up.svg)
 - avatar-multiple 
-![avatar-multiple](./avatar-multiple.svg)
+![avatar-multiple](./icons/avatar-multiple.svg)
 - avatar 
-![avatar](./avatar.svg)
+![avatar](./icons/avatar.svg)
 - bag-product 
-![bag-product](./bag-product.svg)
+![bag-product](./icons/bag-product.svg)
 - bag 
-![bag](./bag.svg)
+![bag](./icons/bag.svg)
 - basket 
-![basket](./basket.svg)
+![basket](./icons/basket.svg)
 - beer 
-![beer](./beer.svg)
+![beer](./icons/beer.svg)
 - bell-bell 
-![bell-bell](./bell-bell.svg)
+![bell-bell](./icons/bell-bell.svg)
 - bell-crossed 
-![bell-crossed](./bell-crossed.svg)
+![bell-crossed](./icons/bell-crossed.svg)
 - blocked 
-![blocked](./blocked.svg)
+![blocked](./icons/blocked.svg)
 - bold 
-![bold](./bold.svg)
+![bold](./icons/bold.svg)
 - bookmark 
-![bookmark](./bookmark.svg)
+![bookmark](./icons/bookmark.svg)
 - books 
-![books](./books.svg)
+![books](./icons/books.svg)
 - briefcase 
-![briefcase](./briefcase.svg)
+![briefcase](./icons/briefcase.svg)
 - browser 
-![browser](./browser.svg)
+![browser](./icons/browser.svg)
 - bug 
-![bug](./bug.svg)
+![bug](./icons/bug.svg)
 - bulk-edit 
-![bulk-edit](./bulk-edit.svg)
+![bulk-edit](./icons/bulk-edit.svg)
 - calendar-empty 
-![calendar-empty](./calendar-empty.svg)
+![calendar-empty](./icons/calendar-empty.svg)
 - calendar 
-![calendar](./calendar.svg)
+![calendar](./icons/calendar.svg)
 - cart 
-![cart](./cart.svg)
+![cart](./icons/cart.svg)
 - chart-bar-filled 
-![chart-bar-filled](./chart-bar-filled.svg)
+![chart-bar-filled](./icons/chart-bar-filled.svg)
 - chart-bar 
-![chart-bar](./chart-bar.svg)
+![chart-bar](./icons/chart-bar.svg)
 - chart-pie 
-![chart-pie](./chart-pie.svg)
+![chart-pie](./icons/chart-pie.svg)
 - chart-sales 
-![chart-sales](./chart-sales.svg)
+![chart-sales](./icons/chart-sales.svg)
 - chart 
-![chart](./chart.svg)
+![chart](./icons/chart.svg)
 - checkmark-block 
-![checkmark-block](./checkmark-block.svg)
+![checkmark-block](./icons/checkmark-block.svg)
 - checkmark-circle 
-![checkmark-circle](./checkmark-circle.svg)
+![checkmark-circle](./icons/checkmark-circle.svg)
 - checkmark 
-![checkmark](./checkmark.svg)
+![checkmark](./icons/checkmark.svg)
 - checkmark-wide-block 
-![checkmark-wide-block](./checkmark-wide-block.svg)
+![checkmark-wide-block](./icons/checkmark-wide-block.svg)
 - checkmark-wide 
-![checkmark-wide](./checkmark-wide.svg)
+![checkmark-wide](./icons/checkmark-wide.svg)
 - circle-download 
-![circle-download](./circle-download.svg)
+![circle-download](./icons/circle-download.svg)
 - circle 
-![circle](./circle.svg)
+![circle](./icons/circle.svg)
 - circle-upload 
-![circle-upload](./circle-upload.svg)
+![circle-upload](./icons/circle-upload.svg)
 - clock 
-![clock](./clock.svg)
+![clock](./icons/clock.svg)
 - cloud-download 
-![cloud-download](./cloud-download.svg)
+![cloud-download](./icons/cloud-download.svg)
 - cloud-upload 
-![cloud-upload](./cloud-upload.svg)
+![cloud-upload](./icons/cloud-upload.svg)
 - cockpit 
-![cockpit](./cockpit.svg)
+![cockpit](./icons/cockpit.svg)
 - code 
-![code](./code.svg)
+![code](./icons/code.svg)
 - colorpicker 
-![colorpicker](./colorpicker.svg)
+![colorpicker](./icons/colorpicker.svg)
 - content 
-![content](./content.svg)
+![content](./icons/content.svg)
 - dashboard 
-![dashboard](./dashboard.svg)
+![dashboard](./icons/dashboard.svg)
 - database 
-![database](./database.svg)
+![database](./icons/database.svg)
 - debug 
-![debug](./debug.svg)
+![debug](./icons/debug.svg)
 - desktop 
-![desktop](./desktop.svg)
+![desktop](./icons/desktop.svg)
 - document-view 
-![document-view](./document-view.svg)
+![document-view](./icons/document-view.svg)
 - drag-horizontal 
-![drag-horizontal](./drag-horizontal.svg)
+![drag-horizontal](./icons/drag-horizontal.svg)
 - drag-vertical 
-![drag-vertical](./drag-vertical.svg)
+![drag-vertical](./icons/drag-vertical.svg)
 - duplicate 
-![duplicate](./duplicate.svg)
+![duplicate](./icons/duplicate.svg)
 - editor-align-left 
-![editor-align-left](./editor-align-left.svg)
+![editor-align-left](./icons/editor-align-left.svg)
 - editor-align-right 
-![editor-align-right](./editor-align-right.svg)
+![editor-align-right](./icons/editor-align-right.svg)
 - editor-bold 
-![editor-bold](./editor-bold.svg)
+![editor-bold](./icons/editor-bold.svg)
 - editor-code 
-![editor-code](./editor-code.svg)
+![editor-code](./icons/editor-code.svg)
 - editor-expand 
-![editor-expand](./editor-expand.svg)
+![editor-expand](./icons/editor-expand.svg)
 - editor-italic 
-![editor-italic](./editor-italic.svg)
+![editor-italic](./icons/editor-italic.svg)
 - editor-link 
-![editor-link](./editor-link.svg)
+![editor-link](./icons/editor-link.svg)
 - editor-list-numberd 
-![editor-list-numberd](./editor-list-numberd.svg)
+![editor-list-numberd](./icons/editor-list-numberd.svg)
 - editor-list 
-![editor-list](./editor-list.svg)
+![editor-list](./icons/editor-list.svg)
 - editor-list-unordered 
-![editor-list-unordered](./editor-list-unordered.svg)
+![editor-list-unordered](./icons/editor-list-unordered.svg)
 - editor-media 
-![editor-media](./editor-media.svg)
+![editor-media](./icons/editor-media.svg)
 - editor-redo 
-![editor-redo](./editor-redo.svg)
+![editor-redo](./icons/editor-redo.svg)
 - editor-re-undo 
-![editor-re-undo](./editor-re-undo.svg)
+![editor-re-undo](./icons/editor-re-undo.svg)
 - editor-shrink 
-![editor-shrink](./editor-shrink.svg)
+![editor-shrink](./icons/editor-shrink.svg)
 - editor-strikethrough 
-![editor-strikethrough](./editor-strikethrough.svg)
+![editor-strikethrough](./icons/editor-strikethrough.svg)
 - editor-style 
-![editor-style](./editor-style.svg)
+![editor-style](./icons/editor-style.svg)
 - editor-subscript 
-![editor-subscript](./editor-subscript.svg)
+![editor-subscript](./icons/editor-subscript.svg)
 - editor-superscript 
-![editor-superscript](./editor-superscript.svg)
+![editor-superscript](./icons/editor-superscript.svg)
 - editor-table 
-![editor-table](./editor-table.svg)
+![editor-table](./icons/editor-table.svg)
 - editor-underline 
-![editor-underline](./editor-underline.svg)
+![editor-underline](./icons/editor-underline.svg)
 - editor-undo 2. 
-![editor-undo 2](./editor-undo 2.svg')
+![editor-undo 2](./icons/editor-undo 2.svg')
 - editor-undo 
-![editor-undo](./editor-undo.svg)
+![editor-undo](./icons/editor-undo.svg)
 - emoji 
-![emoji](./emoji.svg)
+![emoji](./icons/emoji.svg)
 - envelope 
-![envelope](./envelope.svg)
+![envelope](./icons/envelope.svg)
 - error 
-![error](./error.svg)
+![error](./icons/error.svg)
 - euro 
-![euro](./euro.svg)
+![euro](./icons/euro.svg)
 - external 
-![external](./external.svg)
+![external](./icons/external.svg)
 - eye-crossed 
-![eye-crossed](./eye-crossed.svg)
+![eye-crossed](./icons/eye-crossed.svg)
 - eye-open 
-![eye-open](./eye-open.svg)
+![eye-open](./icons/eye-open.svg)
 - file 
-![file](./file.svg)
+![file](./icons/file.svg)
 - filter 
-![filter](./filter.svg)
+![filter](./icons/filter.svg)
 - flag 
-![flag](./flag.svg)
+![flag](./icons/flag.svg)
 - folder-thumbnail 
-![folder-thumbnail](./folder-thumbnail.svg)
+![folder-thumbnail](./icons/folder-thumbnail.svg)
 - forward 
-![forward](./forward.svg)
+![forward](./icons/forward.svg)
 - gamecontroler 
-![gamecontroler](./gamecontroler.svg)
+![gamecontroler](./icons/gamecontroler.svg)
 - globe 
-![globe](./globe.svg)
+![globe](./icons/globe.svg)
 - gps 
-![gps](./gps.svg)
+![gps](./icons/gps.svg)
 - grab 
-![grab](./grab.svg)
+![grab](./icons/grab.svg)
 - graduate-cap 
-![graduate-cap](./graduate-cap.svg)
+![graduate-cap](./icons/graduate-cap.svg)
 - harddisk 
-![harddisk](./harddisk.svg)
+![harddisk](./icons/harddisk.svg)
 - headset 
-![headset](./headset.svg)
+![headset](./icons/headset.svg)
 - heart 
-![heart](./heart.svg)
+![heart](./icons/heart.svg)
 - help 
-![help](./help.svg)
+![help](./icons/help.svg)
 - history 
-![history](./history.svg)
+![history](./icons/history.svg)
 - home 
-![home](./home.svg)
+![home](./icons/home.svg)
 - hourglass 
-![hourglass](./hourglass.svg)
+![hourglass](./icons/hourglass.svg)
 - image 
-![image](./image.svg)
+![image](./icons/image.svg)
 - inbox 
-![inbox](./inbox.svg)
+![inbox](./icons/inbox.svg)
 - infinity 
-![infinity](./infinity.svg)
+![infinity](./icons/infinity.svg)
 - info 
-![info](./info.svg)
+![info](./icons/info.svg)
 - italic 
-![italic](./italic.svg)
+![italic](./icons/italic.svg)
 - keyboard 
-![keyboard](./keyboard.svg)
+![keyboard](./icons/keyboard.svg)
 - lab-flask 
-![lab-flask](./lab-flask.svg)
+![lab-flask](./icons/lab-flask.svg)
 - laptop 
-![laptop](./laptop.svg)
+![laptop](./icons/laptop.svg)
 - layers 
-![layers](./layers.svg)
+![layers](./icons/layers.svg)
 - layout 
-![layout](./layout.svg)
+![layout](./icons/layout.svg)
 - lightbulb 
-![lightbulb](./lightbulb.svg)
+![lightbulb](./icons/lightbulb.svg)
 - link 
-![link](./link.svg)
+![link](./icons/link.svg)
 - list 
-![list](./list.svg)
+![list](./icons/list.svg)
 - loading-circle 
-![loading-circle](./loading-circle.svg)
+![loading-circle](./icons/loading-circle.svg)
 - loading-star 
-![loading-star](./loading-star.svg)
+![loading-star](./icons/loading-star.svg)
 - lock-closed 
-![lock-closed](./lock-closed.svg)
+![lock-closed](./icons/lock-closed.svg)
 - lock-fingerprint 
-![lock-fingerprint](./lock-fingerprint.svg)
+![lock-fingerprint](./icons/lock-fingerprint.svg)
 - lock-key 
-![lock-key](./lock-key.svg)
+![lock-key](./icons/lock-key.svg)
 - lock-open 
-![lock-open](./lock-open.svg)
+![lock-open](./icons/lock-open.svg)
 - log-in 
-![log-in](./log-in.svg)
+![log-in](./icons/log-in.svg)
 - log-out 
-![log-out](./log-out.svg)
+![log-out](./icons/log-out.svg)
 - map-closed 
-![map-closed](./map-closed.svg)
+![map-closed](./icons/map-closed.svg)
 - map-open 
-![map-open](./map-open.svg)
+![map-open](./icons/map-open.svg)
 - map 
-![map](./map.svg)
+![map](./icons/map.svg)
 - marker 
-![marker](./marker.svg)
+![marker](./icons/marker.svg)
 - marketing 
-![marketing](./marketing.svg)
+![marketing](./icons/marketing.svg)
 - medal 
-![medal](./medal.svg)
+![medal](./icons/medal.svg)
 - micophone 
-![micophone](./micophone.svg)
+![micophone](./icons/micophone.svg)
 - minus-block 
-![minus-block](./minus-block.svg)
+![minus-block](./icons/minus-block.svg)
 - minus-circle 
-![minus-circle](./minus-circle.svg)
+![minus-circle](./icons/minus-circle.svg)
 - minus 
-![minus](./minus.svg)
+![minus](./icons/minus.svg)
 - minus-wide 
-![minus-wide](./minus-wide.svg)
+![minus-wide](./icons/minus-wide.svg)
 - mobile 
-![mobile](./mobile.svg)
+![mobile](./icons/mobile.svg)
 - money-card 
-![money-card](./money-card.svg)
+![money-card](./icons/money-card.svg)
 - money-cash 
-![money-cash](./money-cash.svg)
+![money-cash](./icons/money-cash.svg)
 - money-wallet 
-![money-wallet](./money-wallet.svg)
+![money-wallet](./icons/money-wallet.svg)
 - moon 
-![moon](./moon.svg)
+![moon](./icons/moon.svg)
 - more-horizontal 
-![more-horizontal](./more-horizontal.svg)
+![more-horizontal](./icons/more-horizontal.svg)
 - more-vertical 
-![more-vertical](./more-vertical.svg)
+![more-vertical](./icons/more-vertical.svg)
 - move-file 
-![move-file](./move-file.svg)
+![move-file](./icons/move-file.svg)
 - package-closed 
-![package-closed](./package-closed.svg)
+![package-closed](./icons/package-closed.svg)
 - package-gift 
-![package-gift](./package-gift.svg)
+![package-gift](./icons/package-gift.svg)
 - package-open 
-![package-open](./package-open.svg)
+![package-open](./icons/package-open.svg)
 - paint 
-![paint](./paint.svg)
+![paint](./icons/paint.svg)
 - paperclip 
-![paperclip](./paperclip.svg)
+![paperclip](./icons/paperclip.svg)
 - paper-pencil-signed 
-![paper-pencil-signed](./paper-pencil-signed.svg)
+![paper-pencil-signed](./icons/paper-pencil-signed.svg)
 - paper-pencil 
-![paper-pencil](./paper-pencil.svg)
+![paper-pencil](./icons/paper-pencil.svg)
 - paperplane 
-![paperplane](./paperplane.svg)
+![paperplane](./icons/paperplane.svg)
 - pawn 
-![pawn](./pawn.svg)
+![pawn](./icons/pawn.svg)
 - pencil-brush 
-![pencil-brush](./pencil-brush.svg)
+![pencil-brush](./icons/pencil-brush.svg)
 - photocamera 
-![photocamera](./photocamera.svg)
+![photocamera](./icons/photocamera.svg)
 - placeholder 
-![placeholder](./placeholder.svg)
+![placeholder](./icons/placeholder.svg)
 - plastic-bag 
-![plastic-bag](./plastic-bag.svg)
+![plastic-bag](./icons/plastic-bag.svg)
 - plug 
-![plug](./plug.svg)
+![plug](./icons/plug.svg)
 - plus-block 
-![plus-block](./plus-block.svg)
+![plus-block](./icons/plus-block.svg)
 - plus-circle 
-![plus-circle](./plus-circle.svg)
+![plus-circle](./icons/plus-circle.svg)
 - plus 
-![plus](./plus.svg)
+![plus](./icons/plus.svg)
 - plus-wide 
-![plus-wide](./plus-wide.svg)
+![plus-wide](./icons/plus-wide.svg)
 - preview 
-![preview](./preview.svg)
+![preview](./icons/preview.svg)
 - printer 
-![printer](./printer.svg)
+![printer](./icons/printer.svg)
 - products 
-![products](./products.svg)
+![products](./icons/products.svg)
 - pulse 
-![pulse](./pulse.svg)
+![pulse](./icons/pulse.svg)
 - pushpin 
-![pushpin](./pushpin.svg)
+![pushpin](./icons/pushpin.svg)
 - puzzle-piece 
-![puzzle-piece](./puzzle-piece.svg)
+![puzzle-piece](./icons/puzzle-piece.svg)
 - quickjump 
-![quickjump](./quickjump.svg)
+![quickjump](./icons/quickjump.svg)
 - quote 
-![quote](./quote.svg)
+![quote](./icons/quote.svg)
 - replace 
-![replace](./replace.svg)
+![replace](./icons/replace.svg)
 - reply 
-![reply](./reply.svg)
+![reply](./icons/reply.svg)
 - rocket 
-![rocket](./rocket.svg)
+![rocket](./icons/rocket.svg)
 - ruler-pencil 
-![ruler-pencil](./ruler-pencil.svg)
+![ruler-pencil](./icons/ruler-pencil.svg)
 - rule 
-![rule](./rule.svg)
+![rule](./icons/rule.svg)
 - save 
-![save](./save.svg)
+![save](./icons/save.svg)
 - screen-full 
-![screen-full](./screen-full.svg)
+![screen-full](./icons/screen-full.svg)
 - screen-minimize 
-![screen-minimize](./screen-minimize.svg)
+![screen-minimize](./icons/screen-minimize.svg)
 - search 
-![search](./search.svg)
+![search](./icons/search.svg)
 - server 
-![server](./server.svg)
+![server](./icons/server.svg)
 - settings 
-![settings](./settings.svg)
+![settings](./icons/settings.svg)
 - share 
-![share](./share.svg)
+![share](./icons/share.svg)
 - shield 
-![shield](./shield.svg)
+![shield](./icons/shield.svg)
 - shop 
-![shop](./shop.svg)
+![shop](./icons/shop.svg)
 - shopware 
-![shopware](./shopware.svg)
+![shopware](./icons/shopware.svg)
 - sidebar-close 
-![sidebar-close](./sidebar-close.svg)
+![sidebar-close](./icons/sidebar-close.svg)
 - sidebar-open 
-![sidebar-open](./sidebar-open.svg)
+![sidebar-open](./icons/sidebar-open.svg)
 - sliders-horizontal 
-![sliders-horizontal](./sliders-horizontal.svg)
+![sliders-horizontal](./icons/sliders-horizontal.svg)
 - sliders 
-![sliders](./sliders.svg)
+![sliders](./icons/sliders.svg)
 - sofa 
-![sofa](./sofa.svg)
+![sofa](./icons/sofa.svg)
 - sort-down 
-![sort-down](./sort-down.svg)
+![sort-down](./icons/sort-down.svg)
 - sort-up 
-![sort-up](./sort-up.svg)
+![sort-up](./icons/sort-up.svg)
 - speech-bubbles 
-![speech-bubbles](./speech-bubbles.svg)
+![speech-bubbles](./icons/speech-bubbles.svg)
 - speech-bubble 
-![speech-bubble](./speech-bubble.svg)
+![speech-bubble](./icons/speech-bubble.svg)
 - square 
-![square](./square.svg)
+![square](./icons/square.svg)
 - stack-block 
-![stack-block](./stack-block.svg)
+![stack-block](./icons/stack-block.svg)
 - stack-circle 
-![stack-circle](./stack-circle.svg)
+![stack-circle](./icons/stack-circle.svg)
 - stack 
-![stack](./stack.svg)
+![stack](./icons/stack.svg)
 - star-half 
-![star-half](./star-half.svg)
+![star-half](./icons/star-half.svg)
 - star 
-![star](./star.svg)
+![star](./icons/star.svg)
 - sun 
-![sun](./sun.svg)
+![sun](./icons/sun.svg)
 - tablet 
-![tablet](./tablet.svg)
+![tablet](./icons/tablet.svg)
 - tags 
-![tags](./tags.svg)
+![tags](./icons/tags.svg)
 - target-big 
-![target-big](./target-big.svg)
+![target-big](./icons/target-big.svg)
 - target-with-block 
-![target-with-block](./target-with-block.svg)
+![target-with-block](./icons/target-with-block.svg)
 - terminal 
-![terminal](./terminal.svg)
+![terminal](./icons/terminal.svg)
 - text-table 
-![text-table](./text-table.svg)
+![text-table](./icons/text-table.svg)
 - thumb-down 
-![thumb-down](./thumb-down.svg)
+![thumb-down](./icons/thumb-down.svg)
 - thumb-up 
-![thumb-up](./thumb-up.svg)
+![thumb-up](./icons/thumb-up.svg)
 - tools 
-![tools](./tools.svg)
+![tools](./icons/tools.svg)
 - traffic-pawn 
-![traffic-pawn](./traffic-pawn.svg)
+![traffic-pawn](./icons/traffic-pawn.svg)
 - trash 
-![trash](./trash.svg)
+![trash](./icons/trash.svg)
 - tray-down 
-![tray-down](./tray-down.svg)
+![tray-down](./icons/tray-down.svg)
 - tray-up 
-![tray-up](./tray-up.svg)
+![tray-up](./icons/tray-up.svg)
 - triangle 
-![triangle](./triangle.svg)
+![triangle](./icons/triangle.svg)
 - trophy 
-![trophy](./trophy.svg)
+![trophy](./icons/trophy.svg)
 - underline 
-![underline](./underline.svg)
+![underline](./icons/underline.svg)
 - variants 
-![variants](./variants.svg)
+![variants](./icons/variants.svg)
 - video-camera 
-![video-camera](./video-camera.svg)
+![video-camera](./icons/video-camera.svg)
 - view-compact 
-![view-compact](./view-compact.svg)
+![view-compact](./icons/view-compact.svg)
 - view-grid 
-![view-grid](./view-grid.svg)
+![view-grid](./icons/view-grid.svg)
 - view-normal 
-![view-normal](./view-normal.svg)
+![view-normal](./icons/view-normal.svg)
 - view-split 
-![view-split](./view-split.svg)
+![view-split](./icons/view-split.svg)
 - warning 
-![warning](./warning.svg)
+![warning](./icons/warning.svg)
 - x-block 
-![x-block](./x-block.svg)
+![x-block](./icons/x-block.svg)
 - x-circle 
-![x-circle](./x-circle.svg)
+![x-circle](./icons/x-circle.svg)
 - x 
-![x](./x.svg)
+![x](./icons/x.svg)
 - x-wide 
-![x-wide](./x-wide.svg)
+![x-wide](./icons/x-wide.svg)
